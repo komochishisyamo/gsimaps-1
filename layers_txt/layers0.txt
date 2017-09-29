@@ -5,7 +5,10 @@
       "id": "std",
       "title": "標準地図",
       "iconUrl": "",
-      "url": "https://maps.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+      
+      "url": "https://komochishisyamo.github.io/gsimaps-1/image/kazawa ZoomLevel 14to17/{z}/{x}/{y}.png",
+
+
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
